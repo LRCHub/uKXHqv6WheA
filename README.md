@@ -1,0 +1,103 @@
+# Gabriel Jacoby – bootleg
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+(Ha, Gabriel, pop your shit)
+Uh,
+I ain't come all the way
+here for you to be telling
+me who I am
+I seen too many like you before
+I don't think you understand,
+nah
+Darling, why you wanna, uh,
+walk my way
+If you can't expand your love?
+Baby, don't jam my love
+Baby, don't—, uh
+Honey,
+I need someone to lift me up
+Honey, believe me,
+I done gave you enough love
+Darling, let's make it easy,
+I ain't gon' treat you wrong
+Give it to you how you need,
+I'll give it to you how
+you want
+Give it to you how you want
+Give it to you how you want,
+want, want
+Give it to you how you want,
+want, want
+Mm,
+I ain't come lookin' for
+no bootleg, baby,
+that's a two-step
+Baby,
+we don't move like that
+down here in the Bay
+I'm at Teco, baby,
+tryna get my shit paid like, mm,
+mm
+I'm on my shit
+(Shit)
+doing that VI
+(VI)
+Bitch, I'm in the T-A-M,
+P-to-the-A
+Got the C-A-M,
+they wanna see boy krank like,
+mm
+Honey,
+I need someone to lift me up
+Honey, believe me,
+I done gave you enough love
+Let's make it easy,
+I ain't gon' treat you wrong
+Give it to you how you need,
+give it to you how you want
+(Talk that)
+Give it to you how you want
+Give it to you how you need
+Give it to you how you want
+Give it to you how you want,
+you want
+Yeah, yeah,
+we gon' pass for the 813, ha
+Tampa, Florida, huh
+But guess what,
+if you's baddie with a fattie
+Baby, just show it to me,
+show it to me, show it to me
+Down, set, hut, throw it to me,
+throw it to me
+Show it to me, show it to me,
+show it to me
+Down, set, hut
+(Hut)
+throw it to me, throw it to me,
+ooh
+Now ride, ride, ride, ride
+Ride, ride,
+ride it like a rental car
+Ride, ride,
+ride it like a rental car
+Yeah,
+you the baddest bitch in
+the bar
+Slow it down, slow it down,
+speed it up
+Slow it down, slow it down,
+speed it up
+(Speed it up)
+I'ma say my grace before
+I eat it up
+(Eat it up)
+Jet2holiday when I beat it up
+Give it to me, give it to me,
+give it, give it
+(Yeah)
+Come on, come on
+Big 813 shit
+```
