@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "bootleg",
+  "base_artist": "Gabriel Jacoby",
+  "createdAt": "2026-02-13T13:37:34.088967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rumble (Actress Sixinium Bootleg mix)",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/01_Rumble_(Actress_Sixinium_Bootleg_mix)_Kelis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "News from the Sun (Live Bootleg)",
+      "artist": "Neon Indian",
+      "has_synced": true,
+      "path": "select/02_News_from_the_Sun_(Live_Bootleg)_Neon_Indian.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bootleg",
+      "artist": "Creedence Clearwater Revival",
+      "has_synced": true,
+      "path": "select/03_Bootleg_Creedence_Clearwater_Revival.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Wanna Lose This Groove (Extended Bootleg Mix)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/04_Don't_Wanna_Lose_This_Groove_(Extended_Bootleg_Mix)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Wanna Lose This Groove (extended bootleg mix)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/05_Don’t_Wanna_Lose_This_Groove_(extended_bootleg_mix)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Generations of Love (The TimeWriter Bootleg Mix)",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/06_Generations_of_Love_(The_TimeWriter_Bootleg_Mix)_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Knocking On Heaven's Door (Live Bootleg Recording)",
+      "artist": "The Sisters of Mercy",
+      "has_synced": false,
+      "path": "select/07_Knocking_On_Heaven's_Door_(Live_Bootleg_Recording)_The_Sisters_of_Mercy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Luck - Summer Bootleg Version",
+      "artist": "Basement Jaxx feat. Lisa Kekaula",
+      "has_synced": true,
+      "path": "select/08_Good_Luck_-_Summer_Bootleg_Version_Basement_Jaxx_feat._Lisa_Kekaula.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Luck (feat. Lisa Kekaula) (Summer Bootleg Version)",
+      "artist": "Basement Jaxx",
+      "has_synced": true,
+      "path": "select/09_Good_Luck_(feat._Lisa_Kekaula)_(Summer_Bootleg_Version)_Basement_Jaxx.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sinking (Live Bootleg)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/10_Sinking_(Live_Bootleg)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Baby Screams (Live Bootleg)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/11_The_Baby_Screams_(Live_Bootleg)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You're Not Welcome Here - Live Acoustic \"Bootleg\" Version",
+      "artist": "Phantom Planet",
+      "has_synced": false,
+      "path": "select/12_You're_Not_Welcome_Here_-_Live_Acoustic__Bootleg__Version_Phantom_Planet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Blood (Live Bootleg)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/13_The_Blood_(Live_Bootleg)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bootleg (Don't Need Your Help)",
+      "artist": "Death Grips",
+      "has_synced": false,
+      "path": "select/14_Bootleg_(Don't_Need_Your_Help)_Death_Grips.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bananafishbones - Live Bootleg",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/15_Bananafishbones_-_Live_Bootleg_The_Cure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bootleg",
+      "artist": "Gabriel Jacoby & Tom. G",
+      "has_synced": false,
+      "path": "select/pl_01_bootleg_Gabriel_Jacoby_&_Tom._G.txt"
+    }
+  ]
+}
